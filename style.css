@@ -1,0 +1,35 @@
+/* .container-fluid {
+    /* float: right; */
+    /* display: inline-block; */
+    /* justify-content: center; */
+    /* text-align: center; */
+    /* display: inline; */
+    /* background-color: blue; */
+/* } */
+
+#nav {
+    /* text-align: center; */
+    /* display: inline; */
+    /* color: blue; */
+    font-size: xx-large;
+    margin: 0 ;
+}
+
+#shade {
+    background-color: rgb(240, 240, 240);
+}
+
+#outlined {
+    border: 2px solid black;
+}
+
+form.searchCity button {
+    width: 15%;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
