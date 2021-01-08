@@ -33,3 +33,19 @@ form.searchCity button {
     cursor: pointer;
 }
 
+#myForecast {
+    background-color: rgb(24, 159, 238);
+    /* border: 30px; */
+    /* column-rule-width: 10px;     */
+    max-width: 130px;
+    border-radius: 5px;
+    /* width: 50%; */
+    /* table-layout: fixed; */
+    color: white;
+    margin-left: 15px;
+    /* overflow: hidden; */
+    /* margin: 0px; */
+    /* width: 30px; */
+    /* padding: 30px; */
+    /* column-gap: 40px; */
+}
